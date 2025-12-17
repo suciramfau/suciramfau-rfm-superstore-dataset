@@ -1,4 +1,5 @@
 # Customer Segmentation using RFM Analysis (Superstore Dataset)
+
 Understanding customer behavior is critical for retention and revenue growth.
 This project applies RFM (Recency, Frequency, Monetary) analysis on the Superstore dataset
 to segment customers into actionable groups and translate insights into marketing strategies.
